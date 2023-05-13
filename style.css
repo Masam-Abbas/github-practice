@@ -20,6 +20,7 @@
     background-color: aquamarine;
     display: inline-block;
     padding: 10px;
+    border-radius: 2rem;
     /* animation: masam1; */
    animation: masam2;
     animation-duration: 3s; 
